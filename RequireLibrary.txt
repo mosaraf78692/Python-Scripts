@@ -1,0 +1,12 @@
+pip3 install platform
+pip3 install psutil
+pip3 install matplotlib.pyplot as plt
+pip3 install subprocess
+pip3 install pyttsx3
+pip3 install os
+pip3 install qrcode
+pip3 install wmi 
+pip3 install pandas
+pip3 install opencv-python
+pip3 install pyfiglet
+
