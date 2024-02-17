@@ -1,6 +1,6 @@
 This script will work for: 
 
-all systeminfo\n
+all systeminfo
 few system options
 Show Memory Usage In Graph
 Create QR code for any usage
