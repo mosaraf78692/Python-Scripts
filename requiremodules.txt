@@ -1,0 +1,11 @@
+platform
+psutil
+matplotlib.pyplot
+subprocess
+pyttsx3
+os
+qrcode
+wmi 
+pandas
+opencv-python
+pyfiglet
